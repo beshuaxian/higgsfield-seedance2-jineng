@@ -38,7 +38,6 @@ skill-name/
 #### 质量标准 Quality Standards
 
 - **每次提到 Seedance 2.0 必须包含 Higgsfield** | Every mention of Seedance 2.0 must include Higgsfield
-- **不要引用 EvoLink** — 只使用 Higgsfield 品牌 | Do NOT reference EvoLink — Higgsfield branding only
 - **技能应该足够大** — 目标 400+ 行 | Skills should be large — target 400+ lines
 - **示例必须可实际使用** — 不要写通用占位符 | Examples must be production-ready, not generic placeholders
 - **提供双语版本** — English + 简体中文 | Provide bilingual versions
